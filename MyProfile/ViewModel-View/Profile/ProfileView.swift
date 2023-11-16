@@ -126,7 +126,7 @@ private extension ProfileView {
             }
                 
             Divider()
-                .overlay(Color.greySeparator)
+                .overlay(Color.greySeparatorColor)
                 .frame(height: 1)
 
             HStack {
@@ -142,7 +142,7 @@ private extension ProfileView {
             }
             
             Divider()
-                .overlay(Color.greySeparator)
+                .overlay(Color.greySeparatorColor)
                 .frame(height: 1)
 
             HStack {
@@ -158,7 +158,7 @@ private extension ProfileView {
             }
             
             Divider()
-                .overlay(Color.greySeparator)
+                .overlay(Color.greySeparatorColor)
                 .frame(height: 1)
 
         }
@@ -188,7 +188,7 @@ private extension ProfileView {
         }
             
         Divider()
-            .overlay(Color.greySeparator)
+            .overlay(Color.greySeparatorColor)
             .frame(height: 1)
 
         HStack {
@@ -205,7 +205,7 @@ private extension ProfileView {
         }
         
         Divider()
-            .overlay(Color.greySeparator)
+            .overlay(Color.greySeparatorColor)
             .frame(height: 1)
 
         HStack {
@@ -222,7 +222,7 @@ private extension ProfileView {
         }
         
         Divider()
-            .overlay(Color.greySeparator)
+            .overlay(Color.greySeparatorColor)
             .frame(height: 1)
 
     }
