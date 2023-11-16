@@ -12,7 +12,7 @@ extension Color {
     static let regularPurple = Color("CustomPurple")
     static let darkerPurple = Color("CustomDarkerPurple")
     static let backgroundColor = Color("BackgroundColor")
-    static let greySeparator = Color("GreySeparator")
+    static let greySeparator = Color("GreySeparatorColor")
     
     init(hex: String) {
         let hex = hex.trimmingCharacters(in: CharacterSet.alphanumerics.inverted)
